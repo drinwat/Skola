@@ -1,0 +1,10 @@
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\Programma01\bin\Debug\Programma01.exe.config
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\Programma01\bin\Debug\Programma01.exe
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\Programma01\bin\Debug\Programma01.pdb
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\Programma01\obj\Debug\Programma01.csproj.AssemblyReference.cache
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\Programma01\obj\Debug\Programma01.Properties.Resources.resources
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\Programma01\obj\Debug\Programma01.csproj.GenerateResource.cache
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\Programma01\obj\Debug\Programma01.csproj.CoreCompileInputs.cache
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\Programma01\obj\Debug\Programma01.exe
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\Programma01\obj\Debug\Programma01.pdb
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\Programma01\obj\Debug\Programma01.Form1.resources
