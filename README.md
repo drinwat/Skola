@@ -1,2 +1,4 @@
-# Skola
+#Skola
+
+sākums...
  
