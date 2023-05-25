@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace personalitates_tests01
+namespace mbti02
 {
     public partial class Form1 : Form
     {
