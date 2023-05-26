@@ -45,8 +45,15 @@ Jautājumi, varianti un atbildes:
 
 "CIK IR 2002 / (2 * 2) = ?", 200 ; 1000 ; 500.5, Atbilde: 500.5
 
-
-
+Lietotāja rokasgrāmata:
+1. Atrodi vietu, kur saglabāji "Matemātikas Olimpiāde Reizreiķins un Dalīšana" failu un atver to. 
+2. Spied "Sākt".
+3. Pildi dotos uzdevumus un centies atbildēt pareizi, lai dabūtu maksimālo punktu skaitu.
+4. Kad atbildējis visus 10 jautājumus, apskati savu rezultātu un programmu var aizvērt. 
+5. Pildīšanas laikā ir opcija programmu minimizēt, maksimizēt un no tās arī iziet.
+6. Gala rezultāti nekur netiek saglabāti tāpēc veic screenshot, ja vēlies saglabāt savu rezultātu.
+7. Programma neatcerās iepriekšējās lietošanas reizes un tiek katru reizi svaigi palaista. 
+8. Programma izseko tikai pareizās atbildes un to kopējo vērtību parāda beigās. 
 
 
 
