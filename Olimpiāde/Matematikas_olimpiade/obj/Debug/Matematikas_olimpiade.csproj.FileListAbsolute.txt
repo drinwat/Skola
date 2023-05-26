@@ -1,0 +1,12 @@
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\GitHubKKK\Skola\Olimpiāde\Matematikas_olimpiade\bin\Debug\Matematikas_olimpiade.exe.config
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\GitHubKKK\Skola\Olimpiāde\Matematikas_olimpiade\bin\Debug\Matematikas_olimpiade.exe
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\GitHubKKK\Skola\Olimpiāde\Matematikas_olimpiade\bin\Debug\Matematikas_olimpiade.pdb
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\GitHubKKK\Skola\Olimpiāde\Matematikas_olimpiade\obj\Debug\Matematikas_olimpiade.csproj.AssemblyReference.cache
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\GitHubKKK\Skola\Olimpiāde\Matematikas_olimpiade\obj\Debug\Matematikas_olimpiade.Form1.resources
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\GitHubKKK\Skola\Olimpiāde\Matematikas_olimpiade\obj\Debug\Matematikas_olimpiade.Form2.resources
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\GitHubKKK\Skola\Olimpiāde\Matematikas_olimpiade\obj\Debug\Matematikas_olimpiade.Form3.resources
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\GitHubKKK\Skola\Olimpiāde\Matematikas_olimpiade\obj\Debug\Matematikas_olimpiade.Properties.Resources.resources
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\GitHubKKK\Skola\Olimpiāde\Matematikas_olimpiade\obj\Debug\Matematikas_olimpiade.csproj.GenerateResource.cache
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\GitHubKKK\Skola\Olimpiāde\Matematikas_olimpiade\obj\Debug\Matematikas_olimpiade.csproj.CoreCompileInputs.cache
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\GitHubKKK\Skola\Olimpiāde\Matematikas_olimpiade\obj\Debug\Matematikas_olimpiade.exe
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\GitHubKKK\Skola\Olimpiāde\Matematikas_olimpiade\obj\Debug\Matematikas_olimpiade.pdb
