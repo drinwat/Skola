@@ -10,14 +10,19 @@ using System.Windows.Forms;
 
 namespace Viktorina
 {
-    public partial class Form3 : Form
+    public partial class Form2cs : Form
     {
-        public Form3()
+        public Form2cs()
         {
             InitializeComponent();
         }
 
         private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
         {
 
         }
