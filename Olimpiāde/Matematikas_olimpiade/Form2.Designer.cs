@@ -46,6 +46,7 @@ namespace Matematikas_olimpiade
             this.butatbilde1.TabIndex = 0;
             this.butatbilde1.Text = "1. atbilde";
             this.butatbilde1.UseVisualStyleBackColor = true;
+            this.butatbilde1.Click += new System.EventHandler(this.butatbilde1_Click);
             // 
             // butatbilde2
             // 
@@ -56,6 +57,7 @@ namespace Matematikas_olimpiade
             this.butatbilde2.TabIndex = 1;
             this.butatbilde2.Text = "2. atbilde";
             this.butatbilde2.UseVisualStyleBackColor = true;
+            this.butatbilde2.Click += new System.EventHandler(this.butatbilde2_Click);
             // 
             // butatbilde3
             // 
@@ -66,6 +68,7 @@ namespace Matematikas_olimpiade
             this.butatbilde3.TabIndex = 2;
             this.butatbilde3.Text = "3. atbilde";
             this.butatbilde3.UseVisualStyleBackColor = true;
+            this.butatbilde3.Click += new System.EventHandler(this.butatbilde3_Click);
             // 
             // labpiemeri
             // 
@@ -110,6 +113,7 @@ namespace Matematikas_olimpiade
             this.Controls.Add(this.butatbilde1);
             this.Name = "Form2";
             this.Text = "Matemātikas_Olimpiāde";
+            this.Load += new System.EventHandler(this.Form2_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

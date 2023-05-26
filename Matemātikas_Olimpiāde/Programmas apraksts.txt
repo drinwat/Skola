@@ -11,7 +11,7 @@ bez bildēm, bez pārlieku daudz krāsainiem elementiem, bez izskaistināšanas,
 
 
 Programmas funkciju uzskaitījums: 
-1. Pēc programmas iedarbināšanas ekrānā redzama Olimpiādes tēma "Reizināšana un Dalīšana" un poga olimpiādes uzsākšanai. 
+1. Pēc programmas iedarbināšanas ekrānā redzama - Matemātikas Olimpiādes tēma "Reizināšana un Dalīšana" un poga olimpiādes uzsākšanai. 
 2. Pēc olimpiādes uzsākšanas vienlaicīgi ekrānā redzams pirmais matemātikas jautājums, no 10 jautājumiem, un trīs tā atbilžu varianti. Viens no atbilžu variantiem vienmēr ir pareizs un divi nepareizi. 
 3. Ekrāna kreisajā augšējā stūrī redzams jautājumu skaitītājs (1 no 10).
 4. Ekrāna labajā augšējā stūrī redzams olimpiādes rezultāts - iekrātie punkti (vesels skaitlis).
@@ -20,10 +20,7 @@ Programmas funkciju uzskaitījums:
 	ja atbilde ir nepareiza, punktu skaits tiek samazināts par -1, bet punktu skaits nevar būt mazāks par 0.
 6. Neatkarīgi no atbildes pareizības, tiek parādīts nākošais jautājums no atlikušajiem jautājumiem un tā atbilžu varianti.
 7. Olimpiāde turpinās tik ilgi, līdz skolēns sniedzis atbildes uz 10 jautājumiem.
-8. Olimpiādes beigās tiek saskaitīts iegūtais punktu skaits un atbilstoši tam teksts tiek printēts ekrānā:
-10 punkti - Izcili!
-6 – 9 punkti - Tu atbildēji lielāko daļu pareizi!
-0 – 5 punkti - Tu atbildēji lielāko daļu nepareizi!
+8. Olimpiādes beigās tiek saskaitīts iegūtais punktu skaits un parādīts.
 
 Wireframe diagramma: https://lucid.app/lucidchart/045d8d10-5d0b-4ade-ad5c-fee0ae8fd148/edit?viewport_loc=-4541%2C-1262%2C7663%2C3800%2C0_0&invitationId=inv_9676b89c-5d70-4759-9ca8-de457d4b9807
 
