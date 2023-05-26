@@ -27,6 +27,27 @@ Programmas funkciju uzskaitījums:
 
 Wireframe diagramma: https://lucid.app/lucidchart/045d8d10-5d0b-4ade-ad5c-fee0ae8fd148/edit?viewport_loc=-4541%2C-1262%2C7663%2C3800%2C0_0&invitationId=inv_9676b89c-5d70-4759-9ca8-de457d4b9807
 
+Jautājumi, varianti un atbildes:
+"CIK IR 2 + 2 = ?", 0 ; 2 ; 4, Atbilde: 4
+
+"CIK IR 2 * 2 = ?", 2 ; 4 ; 22, Atbilde: 4
+
+"CIK IR 2 + 2 * 2 = ?", 8 ; 4 ; 6, Atbilde: 6 
+
+"CIK IR 2 * (2 + 2) = ?", 6 ; 100 ; 8, Atbilde:8 
+
+"CIK IR 10 / 2 = ?", 5 ; 300 ; 500, Atbilde: 5
+
+"CIK IR 10000 / 2 = ?", 5000 ; 20 ; 400, Atbilde: 5000
+
+"CIK IR 10 / 0.2 = ?", 5 ; 45 ; 50, Atbilde: 50
+
+"CIK IR 1000 / 0.02 = ?", 2000 ; 21 ; 50000, Atbilde: 50000
+
+"CIK IR 1001 / 2 = ?", 1000.5 ; 109 ; 500.5, Atbilde: 500.5
+
+"CIK IR 2002 / (2 * 2) = ?", 200 ; 1000 ; 500.5, Atbilde: 500.5
+
 
 
 

@@ -44,7 +44,7 @@ string[] atbildes1 = new string[] {
 
 "1000.5",
 
-200
+"200", 
 
 };
 
@@ -68,7 +68,7 @@ string[] atbildes2 = new string[] {
 
 "109",
 
-1000
+"1000",
 
 
 };
