@@ -1,0 +1,9 @@
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\GitHubKKK\Skola\MD\WindowsFormsApp111\bin\Debug\WindowsFormsApp111.exe.config
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\GitHubKKK\Skola\MD\WindowsFormsApp111\bin\Debug\WindowsFormsApp111.exe
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\GitHubKKK\Skola\MD\WindowsFormsApp111\bin\Debug\WindowsFormsApp111.pdb
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\GitHubKKK\Skola\MD\WindowsFormsApp111\obj\Debug\WindowsFormsApp111.csproj.AssemblyReference.cache
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\GitHubKKK\Skola\MD\WindowsFormsApp111\obj\Debug\WindowsFormsApp111.Properties.Resources.resources
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\GitHubKKK\Skola\MD\WindowsFormsApp111\obj\Debug\WindowsFormsApp111.csproj.GenerateResource.cache
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\GitHubKKK\Skola\MD\WindowsFormsApp111\obj\Debug\WindowsFormsApp111.csproj.CoreCompileInputs.cache
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\GitHubKKK\Skola\MD\WindowsFormsApp111\obj\Debug\WindowsFormsApp111.exe
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\GitHubKKK\Skola\MD\WindowsFormsApp111\obj\Debug\WindowsFormsApp111.pdb
