@@ -1,0 +1,10 @@
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\GitHubKKK\Skola\MD\Blackwhite\bin\Debug\Blackwhite.exe.config
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\GitHubKKK\Skola\MD\Blackwhite\bin\Debug\Blackwhite.exe
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\GitHubKKK\Skola\MD\Blackwhite\bin\Debug\Blackwhite.pdb
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\GitHubKKK\Skola\MD\Blackwhite\obj\Debug\Blackwhite.csproj.AssemblyReference.cache
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\GitHubKKK\Skola\MD\Blackwhite\obj\Debug\Blackwhite.Form1.resources
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\GitHubKKK\Skola\MD\Blackwhite\obj\Debug\Blackwhite.Properties.Resources.resources
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\GitHubKKK\Skola\MD\Blackwhite\obj\Debug\Blackwhite.csproj.GenerateResource.cache
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\GitHubKKK\Skola\MD\Blackwhite\obj\Debug\Blackwhite.csproj.CoreCompileInputs.cache
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\GitHubKKK\Skola\MD\Blackwhite\obj\Debug\Blackwhite.exe
+C:\Users\johnm\OneDrive\Desktop\Programmēšana3.Modulis\GitHubKKK\Skola\MD\Blackwhite\obj\Debug\Blackwhite.pdb
