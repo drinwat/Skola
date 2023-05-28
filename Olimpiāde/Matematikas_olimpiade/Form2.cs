@@ -154,7 +154,7 @@ namespace Matematikas_olimpiade
             if (punkti == 1) labpunkti.Text = punkti + " punkts";
             else labpunkti.Text = punkti + " punkti";
             piemeri++;
-            if (piemeri<10)
+            if (piemeri < 10)
             {
                 labjautajums.Text = jautajumi[piemeri];
                 butatbilde1.Text = atbildes1[piemeri];

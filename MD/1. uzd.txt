@@ -5,9 +5,9 @@ Mācību materiāla teorijas izklāsts ir papildināts ar piemēru, kurā dokume
 Lokācija		|Testa apraksts
 _________________	|_________________
 
-1. Rezultāta skats| 
-2. Rezultāta skats|
-3. Rezultāta skats|
+1. 
+2. 
+3. 
 4. 
 5. 
 6. 
@@ -21,7 +21,9 @@ _________________	|_________________
 	Atbilde: 
 
  3. uzdevums -  Vai lietotāja rokasgrāmata ir pilnīga un saprotama? Ja nē, papildini to. 
-	Atbilde: 
+	Atbilde: Lietotāja rokasgrāmata ir izveidota ļoti labi, bet varētu piesieties, piemēram, pie - no kurienes ir ņemti šie fakti? Manuprāt, ja par kaut ko tiek mācīts būtu jānorāda šo faktu avots.
+
+
 
   !   Atsūti novērtēšanai papildināto/aizpildīto testēšanas dokumentu, kura nobeigumā pievienoti tavi komantāri par testēšanas rezultātiem, un papildināto/uzlaboto/komentēto lietotāja rokasgrāmatu. 
 
